@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bamscodes&show_icons=true&theme=blue_navy&hide_border=true&title_color=0175C2&icon_color=0175C2&v=1" alt="Bambang's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=bamscodes&theme=transparent&hide_border=true&ring=0175C2&fire=0175C2&currStreakLabel=0175C2&sideNums=0175C2&currStreakNum=0052CC&sideLabels=02569B&dates=0175C2" alt="Bambang's GitHub Streak" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 <a href="mailto:bambangsugiarto2427@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="www.linkedin.com/in/bambang-sugiarto-31a334231">
+<a href="https://www.linkedin.com/in/bambang-sugiarto-31a334231/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://play.google.com/store/apps/developer?id=Bambang+Sugiarto">
