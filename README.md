@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bambang Sugiarto</h1>
+<h1 align="center">Hi 👋, I'm Bambang Sugiarto, M.Kom</h1>
 <h3 align="center">Innovate, Develop, Connect | BamsCodes</h3>
 
 <p align="center">
