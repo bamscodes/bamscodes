@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bamscodes&show_icons=true&theme=blue_navy&hide_border=true&title_color=0175C2&icon_color=0175C2" alt="Bambang's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bamscodes&show_icons=true&theme=blue_navy&hide_border=true&title_color=0175C2&icon_color=0175C2&v=1" alt="Bambang's GitHub Stats" />
 </p>
 
 ---
